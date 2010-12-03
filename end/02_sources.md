@@ -6,6 +6,8 @@
 * <http://en.wikipedia.org/wiki/Alan_Turing>
 * <http://en.wikipedia.org/wiki/Turing_machine>
 * <http://de.wikipedia.org/wiki/Halteproblem>
+* <http://de.wikipedia.org/wiki/Entscheidbar>
+* <http://de.wikipedia.org/wiki/Hilbertprogramm>
 * <http://ironphoenix.org/tril/tm/> (Simulation)
 * <http://www.mspengler.de/BAUSTELLE/pdf2HP/DemoTur.pdf>
 * <http://www.matheprisma.uni-wuppertal.de/Module/Turing/>
