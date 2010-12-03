@@ -1,0 +1,52 @@
+.end h1 { 
+  background-color: #ffe5e5; 
+  font-size: 3em;
+}
+
+.left ul li { text-align: left; }
+
+.slide {
+  background: url(jer-cc-by-nc-sa.png) no-repeat right bottom;
+}
+
+blockquote {
+  font-size: 2.6em;
+  padding: 10px;
+  border: 1px solid transparent;
+  width: 90%;
+  margin-left: 10px;
+  -webkit-box-shadow: 0 0 16px #999;
+  -moz-box-shadow: 0 0 16px #999;
+}
+
+.mytable table {
+  width: 50%;
+  font-size: 2em;
+  float: left;
+  margin-right: 100px;
+  text-align: center;
+}
+
+.mytable table td {
+  border: 1px solid black;
+  padding: 2px;
+}
+
+.mytable table tr:hover {
+  background-color: #888;
+}
+
+.mytable ul {
+  font-size: 2em;
+}
+.mytable ul li {
+  text-align: left;
+}
+
+.mytable2 table {
+  float: right;
+}
+
+.tabledone table {
+  font-weight: bold;
+}
