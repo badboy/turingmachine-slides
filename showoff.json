@@ -1,0 +1,8 @@
+{ "name": "Turing Maschine", 
+    "sections": [ 
+      {"section":"one"},
+      {"section":"alan_turing"},
+      {"section":"turingmachine"},
+      {"section":"end"}
+    ]
+}
