@@ -22,7 +22,8 @@
 
 !SLIDE center
 
-> Alles, was so berechnet werden kann, ist eine turingberechenbare Funktion
+> Alles, was so berechnet werden kann, ist eine turingberechenbare Funktion.
+
 !SLIDE center
 
 ### Church-Turing-These
@@ -33,7 +34,7 @@
 
 * Halteproblem __nicht__ mit Turingmaschine berechenbar
 * ↓
-* auch __nicht__ von Menschen berechenbar
+* __nicht__ von Menschen berechenbar
 
 !SLIDE
 
