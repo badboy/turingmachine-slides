@@ -1,11 +1,11 @@
 !SLIDE 
 ## Einfaches Beispiel: Zeichen verdoppeln
 
-!SLIDE code
+!SLIDE code example
 
 # 1 1 ○ ○ ○
 
-!SLIDE code
+!SLIDE code example
 
 # 1 1 ○ 1 1
 

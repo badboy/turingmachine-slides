@@ -1,4 +1,4 @@
-!SLIDE 
+!SLIDE center
 # Alan Turing (1912 - 1954)
 !SLIDE center
 ![Alan Turing](Alan_Turing.jpg)
