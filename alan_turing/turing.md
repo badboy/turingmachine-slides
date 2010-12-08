@@ -54,7 +54,7 @@
 ![Memorial](turing_memorial.jpg)
 Turing-Statue im Sackville Park 
 
-(_Lmno, Gnu FDL, http://en.wikipedia.org/wiki/File:Alan_Turing_Memorial_Closer.jpg_)
+(_Lmno, Gnu FDL_)
 
 !SLIDE bullets incremental
 .notes z.B. Dijkstra, bislang kein Deutscher, meist Amerikaner, $250.000

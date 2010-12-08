@@ -14,9 +14,9 @@
 * Duden Informatik
 
 # Bilder
-* <http://www.flickr.com/photos/joncallas/2717067471/>
-* <http://de.wikipedia.org/wiki/Datei:Enigma_Verkehrshaus_Luzern_cropped.jpg>
-* <http://en.wikipedia.org/wiki/File:Alan_Turing_Memorial_Closer.jpg>
+* <http://www.flickr.com/photos/joncallas/2717067471/> (Jon Callas, cc by)
+* <http://de.wikipedia.org/wiki/Datei:Enigma_Verkehrshaus_Luzern_cropped.jpg> (OS, cc by-sa)
+* <http://en.wikipedia.org/wiki/File:Alan_Turing_Memorial_Closer.jpg> (Lmno, Gnu FDL)
 
 !SLIDE center
 
